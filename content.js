@@ -8,7 +8,7 @@ if (total > 10000) {
 }   else if (total > 8000) {
     receipt = 'Almost there but still not as much as the TP hoarders';
 }   else if (total > 5000) {
-    receipt = 'Come on you cheapskate! Think of the chldren!';
+    receipt = 'Come on you cheapskate! Think of the children!';
 }   else {
     receipt = 'Not even close! YOURE GOING TO DIE!'
 }
