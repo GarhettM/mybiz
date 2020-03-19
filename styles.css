@@ -19,7 +19,7 @@ body {
     background-color: violet;
     color: white;
     padding: 10px;
-    font-family: Arial, Verdana, sans-serif;}
+    font-family: Arial, Verdana, sans-serif;
 }
 
 main {
@@ -28,7 +28,11 @@ main {
 
 article {
     float: left;
-    width: 33%;
+    width: 31%;
+    padding: 10px;
+    
+    
+
     
 }
 
