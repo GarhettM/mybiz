@@ -1,0 +1,42 @@
+header {
+    background-color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    text-decoration: rgb(199, 163, 138);
+    padding: 10px;
+}
+h1 {
+    color: rgb(255, 43, 6);
+}
+
+.headerli {
+    display: inline;
+    padding: 50px;
+    border: yellow;
+}
+
+body {
+    background-color: violet;
+    color: white;
+    padding: 10px;
+    font-family: Arial, Verdana, sans-serif;}
+}
+
+section{
+    display: inline;
+    width: 31%;
+    height: 50px;
+    background-color: whitesmoke;
+}
+
+.column2 {
+    float: left;
+}
+footer {
+    display: inline;
+    text-align: right;
+}
+
+.bio {
+    size: 30%;
+}
